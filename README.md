@@ -65,7 +65,7 @@ Don't worry about the "No GitHub API authentication could be found" message. [AP
 
 ### Publish
 
-When you host your personal website's code on GitHub, you get the support of free hosting through GitHub Pages.
+W1hen you host your personal website's code on GitHub, you get the support of free hosting through GitHub Pages.
 
 **The fastest approach** is to rename your repository `username.github.io`, where `username` is your GitHub username (or organization name). Then, the next time you push any changes to your repository's `master` branch, they'll be accessible on the web at your `username.github.io` address.
 
